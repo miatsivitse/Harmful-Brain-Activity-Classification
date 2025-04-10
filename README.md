@@ -2,8 +2,8 @@
 
  ### Group Members: Saisruthi Kotagiri, Terry Griffin, Mia Tsivitse, Nishi Surana, Will Abbott
 ### Kaggle Competition:
- https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/data?select=train
- _eegs
+ https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/data?select=train_eegs
+ 
 ## Project Scope:
  This Kaggle competition was hosted by Harvard Medical School, and our goal was to detect and
  classify seizures and other types of harmful brain activity. We developed models trained on
@@ -222,16 +222,23 @@ The successful application of deep learning models for classification of harmful
  ## Data Files:
  Kaggle Competition Data Files:
  https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/data
+ 
  Files: 28463 files | Size 26.4 GB
+ 
  train.csv: Metadata for the training set containing EEG samples and matched spectrograms.
  Includes IDs, time offsets, labels, and patient information.
+ 
  test.csv: Metadata for the test set with EEG and spectrogram IDs, and patient information. No
  overlapping samples.
+
  train_eegs/: EEG data from overlapping samples for training. Columns represent electrode
  locations and EKG data, sampled at 200 Hz.
+ 
  test_eegs/: EEG data for testing, exactly 50 seconds long.
+ 
  train_spectrograms/: Spectrograms assembled from EEG data for training. Columns indicate
  frequency and recording regions of EEG electrodes.
+ 
  test_spectrograms/: Spectrograms assembled from 10 minutes of EEG data for testing.
  
  ## Sources:
