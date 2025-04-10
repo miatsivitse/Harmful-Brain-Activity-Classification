@@ -244,4 +244,4 @@ The successful application of deep learning models for classification of harmful
  ## Sources:
  Jin Jing, Zhen Lin, Chaoqi Yang, Ashley Chow, Sohier Dane, Jimeng Sun, M. Brandon
  Westover. (2024). HMS- Harmful Brain Activity Classification. Kaggle.
- https://kaggle.com/competitions/hms-harmful-brain-activity-classificatio
+ https://kaggle.com/competitions/hms-harmful-brain-activity-classification
