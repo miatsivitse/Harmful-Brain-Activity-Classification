@@ -21,18 +21,15 @@
  agreed upon by multiple experts to enhance reliability, each providing insight into the internal
  functioning of the brain. These patterns could arise from diverse conditions like epilepsy, brain
  trauma, infections, or other neurological disorders.
- Six EEG Patterns of Interest:
- ● Seizure (SZ): Sudden, uncontrolled electrical disturbance in the brain.High variation in
- duration and severity.
- ● Generalized Periodic Discharges (GPD): Abnormal electrical discharges in the brain that
- occur synchronously and involve large areas of the brain simultaneously.
- ● Lateralized Periodic Discharges (LPD): Like GPD, but involves electrical discharges that are
- confined to one hemisphere or one side of the brain.
- ● Lateralized Rhythmic Delta Activity (LRDA): Rhythmic delta waves (slow brain waves) that
- are predominantly seen on one side of the brain.
-● Generalized Rhythmic Delta Activity (GRDA): Rhythmic delta waves that are generalized and
- involve both hemispheres of the brain simultaneously.
- ● "Other": Abnormal brain activity that does not fit into the aforementioned patterns.
+
+ #### Six EEG Patterns of Interest:
+ ##### ● Seizure (SZ): Sudden, uncontrolled electrical disturbance in the brain.High variation in duration and severity.
+ ##### ● Generalized Periodic Discharges (GPD): Abnormal electrical discharges in the brain that occur synchronously and involve large areas of the brain simultaneously.
+ ##### ● Lateralized Periodic Discharges (LPD): Like GPD, but involves electrical discharges that are confined to one hemisphere or one side of the brain.
+ ##### ● Lateralized Rhythmic Delta Activity (LRDA): Rhythmic delta waves (slow brain waves) that are predominantly seen on one side of the brain.
+ ##### ● Generalized Rhythmic Delta Activity (GRDA): Rhythmic delta waves that are generalized and involve both hemispheres of the brain simultaneously.
+ ##### ● "Other": Abnormal brain activity that does not fit into the aforementioned patterns.
+ 
  Within the 6 EEG patterns used for classification, there are “Idealized Patterns” with high
  agreement amongst experts, and cases where ~1/2 of experts gave a label as “other” and the
  other ~1/2 gave one of the remaining five labels, called “proto patterns”. Cases where experts
